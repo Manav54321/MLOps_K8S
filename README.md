@@ -1,2 +1,2 @@
-# MLOps_K8S_Project
+# MLOps_K8S
 This is a Kubernetes project. 
