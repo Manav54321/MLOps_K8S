@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "kubernetes://schema/v1%40service": "file:///Users/manavdesai/Desktop/GitHub/MLOps_K8S_Project/deployment.yaml"
+    }
+}
